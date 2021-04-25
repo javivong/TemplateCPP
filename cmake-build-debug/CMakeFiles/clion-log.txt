@@ -1,0 +1,4 @@
+C:\Cmder\vendor\scoop\apps\CLion-portable\current\IDE\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Javi\CLionProjects\TemplateCPP
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Javi/CLionProjects/TemplateCPP/cmake-build-debug
