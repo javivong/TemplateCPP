@@ -7,10 +7,10 @@
 #IncludeRegexTransform: 
 
 C:/Users/Javi/CLionProjects/TemplateCPP/main.cpp
-string.h
+cstring
 -
-stdio.h
+cstdio
 -
-stdlib.h
+cstdlib
 -
 
