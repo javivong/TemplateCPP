@@ -1,0 +1,3 @@
+C:/Users/Javi/CLionProjects/TemplateCPP/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Javi/CLionProjects/TemplateCPP/build/CMakeFiles/edit_cache.dir
+C:/Users/Javi/CLionProjects/TemplateCPP/build/CMakeFiles/TemplateCPP.dir

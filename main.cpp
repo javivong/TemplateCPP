@@ -137,6 +137,7 @@ char* readString()
 
 int main()
 {
+    printf("hole\n");
     long num_casos = readLong();
 
     while (num_casos != 0)
